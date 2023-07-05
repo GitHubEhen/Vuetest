@@ -1,1 +1,2 @@
-yes is a test words.
+yes is a test words
+Tis is a new word.
